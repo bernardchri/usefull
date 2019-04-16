@@ -5,6 +5,7 @@ Usefull links and notes
  - [Devdocs.io](https://devdocs.io) – DevDocs combines multiple API documentations in a fast, organized, and searchable interface
  
 ### Javascript
+ - [Front-end handbook](https://frontendmasters.com/books/front-end-handbook/2019/#3.1)
  - [ Awesome list Javascript Learning ](https://github.com/micromata/awesome-javascript-learning) 
  - [ Awesome list Javascript](https://github.com/sorrycc/awesome-javascript)
  - [Bestofjs](https://bestofjs.org/projects)
