@@ -11,5 +11,9 @@ Usefull links and notes
  - [Bestofjs](https://bestofjs.org/projects)
  - [Front-end interview handbook](https://github.com/yangshun/front-end-interview-handbook)
  
+#### lib
+ - [Tiny-slider](https://github.com/ganlanyuan/tiny-slider) - light, fast vanillia.js slider
+ 
+ 
 ## Blogs
  - [https://wiki.nikitavoloboev.xyz](https://wiki.nikitavoloboev.xyz)
