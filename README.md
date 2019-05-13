@@ -10,12 +10,17 @@ Usefull links and notes
  - [filezilla](https://filezilla-project.org/)
  - [Docker](https://www.docker.com/): "Enterprise Container Platform for High-Velocity Innovation"
  
- ### optimisation
- - [imageOptim](https://imageoptim.com/fr)
- - [Spectacle](https://www.spectacleapp.com/)
- - [ffmpeg](https://ffmpeg.org/)
+ ### Productivity 
+ - [Spectacle](https://www.spectacleapp.com/) - "Move and resize windows with ease"
  
- 
+
+### Compression
+ - [ffmpeg](https://ffmpeg.org/) - compress videos
+ - [imageOptim](https://imageoptim.com/fr) - optimize images
+
+### graphism
+
+ - [Font forge](http://fontforge.github.io/) - create Fonts
 
 ## Dev 
  - [Devdocs.io](https://devdocs.io) – DevDocs combines multiple API documentations in a fast, organized, and searchable interface
