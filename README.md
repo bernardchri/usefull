@@ -15,19 +15,21 @@ Usefull links and notes for mac
  ### Productivity 
  - [Spectacle](https://www.spectacleapp.com/) - "Move and resize windows with ease"
  
-
 ### Compression
  - [ffmpeg](https://ffmpeg.org/) - compress videos
  - [imageOptim](https://imageoptim.com/fr) - optimize images
 
 ### graphism
-
  - [Font forge](http://fontforge.github.io/) - create Fonts
  - [Zeplin](https://zpl.io/download-mac)
 
-## Dev 
+## Other
+ - [spotify](https://www.spotify.com/fr/)
+
+
+## Documentation 
  - [Devdocs.io](https://devdocs.io) – DevDocs combines multiple API documentations in a fast, organized, and searchable interface
- 
+
 ### Javascript
  - [Front-end handbook](https://frontendmasters.com/books/front-end-handbook/2019/#3.1)
  - [ Awesome list Javascript Learning ](https://github.com/micromata/awesome-javascript-learning) 
