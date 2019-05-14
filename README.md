@@ -1,5 +1,6 @@
-# Usefull
-Usefull links and notes
+# Usefull 
+
+Usefull links and notes for mac
 
 ## Applications
 
@@ -9,6 +10,7 @@ Usefull links and notes
  - [postman](https://www.getpostman.com/): "Postman Simplifies API Development"
  - [filezilla](https://filezilla-project.org/)
  - [Docker](https://www.docker.com/): "Enterprise Container Platform for High-Velocity Innovation"
+ - [Sequel pro](https://sequelpro.com/download) - mySQL 
  
  ### Productivity 
  - [Spectacle](https://www.spectacleapp.com/) - "Move and resize windows with ease"
@@ -21,6 +23,7 @@ Usefull links and notes
 ### graphism
 
  - [Font forge](http://fontforge.github.io/) - create Fonts
+ - [Zeplin](https://zpl.io/download-mac)
 
 ## Dev 
  - [Devdocs.io](https://devdocs.io) – DevDocs combines multiple API documentations in a fast, organized, and searchable interface
