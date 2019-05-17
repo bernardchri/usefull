@@ -14,6 +14,7 @@ Usefull links and notes for mac
  
  ### Productivity 
  - [Spectacle](https://www.spectacleapp.com/) - "Move and resize windows with ease"
+ - [Skitch for mac](https://evernote.com/intl/fr/products/skitch) - "Get your point across with fewer words using annotation, shapes and sketches, so that your ideas become reality faster."
  
 ### Compression
  - [ffmpeg](https://ffmpeg.org/) - compress videos
