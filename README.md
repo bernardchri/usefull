@@ -46,3 +46,8 @@ Usefull links and notes for mac
  
 ## Blogs
  - [https://wiki.nikitavoloboev.xyz](https://wiki.nikitavoloboev.xyz)
+ 
+ 
+## Tutos
+- [The Simplest Ways to Handle HTML Includes](https://css-tricks.com/the-simplest-ways-to-handle-html-includes/)
+- [Construire un blog statique avec Gatsby et Strapi](https://jamstatic.fr/2018/04/26/construire-un-blog-statique-avec-gatsby-et-strapi/)
