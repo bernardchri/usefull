@@ -2,7 +2,6 @@
 
 ## Read json file from url
 
-
     'use strict'
 
     const data = {
@@ -21,4 +20,6 @@
         }
     }
 
-    export default template;
+    export default data;
+
+## New snippet
