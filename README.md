@@ -42,7 +42,7 @@ Usefull links and notes for mac
  
 ### libs
  - [Tiny-slider](https://github.com/ganlanyuan/tiny-slider) - light, fast vanillia.js slider
- 
+ - [Détéction du Touche](https://patrickhlauke.github.io/touch/touchscreen-detection/)
  
 ## Blogs
  - [https://wiki.nikitavoloboev.xyz](https://wiki.nikitavoloboev.xyz)
