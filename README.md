@@ -43,6 +43,8 @@ Usefull links and notes for mac
 ### libs
  - [Tiny-slider](https://github.com/ganlanyuan/tiny-slider) - light, fast vanillia.js slider
  - [Détéction du Touche](https://patrickhlauke.github.io/touch/touchscreen-detection/)
+ - [Body-scroll-lock](https://github.com/willmcpo/body-scroll-lock) - "Just work with everything"
+ - [titlt.js](https://gijsroge.github.io/tilt.js/) - 
  
 ## Blogs
  - [https://wiki.nikitavoloboev.xyz](https://wiki.nikitavoloboev.xyz)
