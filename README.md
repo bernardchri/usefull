@@ -40,11 +40,12 @@ Usefull links and notes for mac
  - [Bestofjs](https://bestofjs.org/projects)
  - [Front-end interview handbook](https://github.com/yangshun/front-end-interview-handbook)
  
-### libs
+### libs website friendly
  - [Tiny-slider](https://github.com/ganlanyuan/tiny-slider) - light, fast vanillia.js slider
  - [Détéction du Touche](https://patrickhlauke.github.io/touch/touchscreen-detection/)
  - [Body-scroll-lock](https://github.com/willmcpo/body-scroll-lock) - "Just work with everything"
  - [titlt.js](https://gijsroge.github.io/tilt.js/) - 
+ - [textFit.js](https://github.com/STRML/textFit) - "A fast, dependency-free text sizing component that quickly fits single and multi-line text to the width and/or height of its container."
  
 ## Blogs
  - [https://wiki.nikitavoloboev.xyz](https://wiki.nikitavoloboev.xyz)
