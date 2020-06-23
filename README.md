@@ -11,6 +11,7 @@ Usefull links and notes for mac
  - [filezilla](https://filezilla-project.org/)
  - [Docker](https://www.docker.com/): "Enterprise Container Platform for High-Velocity Innovation"
  - [Sequel pro](https://sequelpro.com/download) - mySQL 
+  - [lepton](https://www.electronjs.org/apps/lepton) – Lepton is a lean code snippet manager based on GitHub Gist. Check out its latest release.
  
  ### Productivity 
  - [Spectacle](https://www.spectacleapp.com/) - "Move and resize windows with ease"
@@ -31,6 +32,7 @@ Usefull links and notes for mac
 
 ## Documentation Dev 
  - [Devdocs.io](https://devdocs.io) – DevDocs combines multiple API documentations in a fast, organized, and searchable interface
+
 
 ## Javascript
 ### Doc
