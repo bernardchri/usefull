@@ -1,4 +1,4 @@
-# Usefull 
+# Awesome Usefull list
 
 Usefull links and notes for mac
 
@@ -12,10 +12,11 @@ Usefull links and notes for mac
  - [Docker](https://www.docker.com/): "Enterprise Container Platform for High-Velocity Innovation"
  - [Sequel pro](https://sequelpro.com/download) - mySQL 
   - [lepton](https://www.electronjs.org/apps/lepton) – Lepton is a lean code snippet manager based on GitHub Gist. Check out its latest release.
+  - [mamp pro](https://www.mamp.info/en/mamp-pro/windows/) - serveur
  
  ### Productivity 
  - [Spectacle](https://www.spectacleapp.com/) - "Move and resize windows with ease"
- - [Skitch for mac](https://evernote.com/intl/fr/products/skitch) - "Get your point across with fewer words using annotation, shapes and sketches, so that your ideas become reality faster."
+ - [Skitch for mac](https://evernote.com/intl/fr/products/skitch) - "Get your point across with fewer words using annotation, shapes and sketches, so that your ideas become reality faster."a
  
 ### Compression
  - [ffmpeg](https://ffmpeg.org/) - compress videos
@@ -24,9 +25,20 @@ Usefull links and notes for mac
 ### graphism
  - [Font forge](http://fontforge.github.io/) - create Fonts
  - [Zeplin](https://zpl.io/download-mac)
+ - Suite adobe 
+ - [Krita](https://krita.org/fr/) – Photoshop alternative
 
-## Other
+### UX
+ - [Sketch](https://www.sketch.com/)
+ - [Adobe XD](https://www.adobe.com/fr/products/xd.html) 
+ - [principleformac](https://principleformac.com/) - animate interface
+
+
+
+## Media
  - [spotify](https://www.spotify.com/fr/)
+ - [4k download](https://www.4kdownload.com/downloads)
+ - [calibre] (http://calibre-ebook.com/download_osx) - ebook management 
 
 ---
 
